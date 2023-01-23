@@ -43,7 +43,7 @@
 //     console.log(respuesta)
 // }
 
-// let arrayNombres = ["Luis", "Manuel", "Perla", "Liz", "Lorena", "Pame", "juan", "rene", "juan", "Petra"];
+// let arrayNombres = ["Luis", "Manuel", "Perla"];
 
 // // for(i = 0; i < arrayNombres.length; i++){
 // //     console.log(`Hola tu nombre es ${arrayNombres[i]}`);
