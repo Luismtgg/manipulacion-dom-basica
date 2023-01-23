@@ -4,13 +4,13 @@
 
 // switch(tipoDeCarro){
 //     case "chevy":
-//         respuesta.innerText = "Auto modelo 2008 cuyo valor de mercardo es $45,000";
+//         respuesta.innerText = "Auto modelo 20xx cuyo valor de mercardo es $xxxx";
 //         break;
 //     case "gol":
-//         respuesta.innerText = "Auto modelo 2015 cuyo valor es $100,00 mxn";
+//         respuesta.innerText = "Auto modelo 20xx cuyo valor es $xxxxx mxn";
 //         break;
 //     case "kicks":
-//         respuesta.innerText = "Camioneta 2017 cuyo valor ronda los 270,000";
+//         respuesta.innerText = "Camioneta 20xxcuyo valor ronda los xxxxxx";
 //         break;
 //     default:
 //         respuesta.innerText = "";
